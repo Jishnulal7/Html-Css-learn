@@ -1,0 +1,63 @@
+/* .nike{
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .stock{
+    font-weight: bold;
+    color: rgb(0, 118,0);
+  }
+  .add{
+    border: none;
+    background-color: rgb(255, 216,20);
+    width: 90px;
+    height: 36px;
+    border-radius: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+
+    
+  }
+  .buy{
+    border: none;
+    background-color: rgb(255, 164,28);
+    width: 90px;
+    height: 36px;
+    border-radius: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+
+    
+  }
+  
+  a:hover{
+    color: green;
+  }
+
+  a:active{
+    color: black;
+  }
+  .add:hover{
+    opacity: .8;
+  }
+  .add:active{
+    opacity: .5;
+  }
+  .buy:hover{
+    opacity: .8;
+  }
+  .buy:active{
+    opacity: .5;
+  }
+ */
+
+
+  .back:hover{
+    cursor: pointer;
+  }
+
+  .next:hover{
+    cursor: pointer;
+  }
+  .number{
+    padding: 5px;
+  }
